@@ -23,15 +23,6 @@ Same amount of missing data, very different answers. Under MNAR, both methods mi
 3. Why MAR and MNAR can't be distinguished from the observed data alone
 4. A delta-adjustment sensitivity analysis for the MNAR case
 
-## Run it
-
-```bash
-pip install -r requirements.txt
-jupyter notebook missing_data_is_rarely_random.ipynb
-```
-
-Or upload the `.ipynb` file to [Google Colab](https://colab.research.google.com).
-
 ## Data and assumptions
 
 - All data is **synthetic**. Ages, HbA1c values, the age-HbA1c relationship and the 9% cut-off are illustrative assumptions, not clinical estimates.
