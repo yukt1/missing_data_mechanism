@@ -39,4 +39,4 @@ Or upload the `.ipynb` file to [Google Colab](https://colab.research.google.com)
 
 ## Author
 
-Yuktha, research ethics and health data science. [Add your LinkedIn profile link here]
+Yuktha, research ethics and health data science. https://www.linkedin.com/in/yukthashreenivasan/
